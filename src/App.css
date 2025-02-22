@@ -1,0 +1,25 @@
+/* تصميم الشريط العلوي */
+.navbar {
+    display: flex; /* يجعل العناصر في نفس السطر */
+    justify-content: flex-start; /* المحاذاة إلى اليسار */
+    align-items: center; /* محاذاة رأسية للعناصر */
+    background-color: #e0e7e1; /* لون خلفية */
+    padding: 10px 20px; /* مساحة داخلية للشريط */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* إضافة ظل خفيف */
+  }
+  
+  /* تنسيق الروابط داخل الشريط */
+  .navbar a {
+    color: rgb(0, 0, 0); /* لون النص */
+    text-decoration: none; /* إزالة التسطير */
+    font-size: 18px; /* حجم الخط */
+    font-weight: bold; /* جعل النص عريض */
+    margin-right: 20px; /* مسافة بين الروابط */
+    transition: color 0.3s ease; /* تأثير تغيير اللون عند التمرير */
+  }
+  
+  /* تأثير عند تمرير الماوس */
+  .navbar a:hover {
+    color: #FFD700; /* لون ذهبي عند التمرير */
+  }
+  

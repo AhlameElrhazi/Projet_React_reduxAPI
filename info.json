@@ -1,0 +1,65 @@
+{
+  "groups": [
+    {
+      "id": "2",
+      "groupNom": "FS205",
+      "students": [
+        {
+          "studentid": 17,
+          "nom": "Amin",
+          "moyenneGeneral": 16
+        },
+        {
+          "studentid": 18,
+          "nom": "Yassine",
+          "moyenneGeneral": 15.2
+        },
+        {
+          "studentid": 19,
+          "nom": "souhaila",
+          "moyenneGeneral": 14.3
+        },
+        {
+          "studentid": 20,
+          "nom": "Salma",
+          "moyenneGeneral": 13.8
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "groupNom": "FS205",
+      "students": [
+        {
+          "studentid": 16,
+          "nom": "Hajar",
+          "moyenneGeneral": 17.5
+        },
+        {
+          "studentid": 17,
+          "nom": "Amina",
+          "moyenneGeneral": 16
+        },
+        {
+          "studentid": 18,
+          "nom": "Yassine",
+          "moyenneGeneral": 15.2
+        },
+        {
+          "studentid": 19,
+          "nom": "Laila",
+          "moyenneGeneral": 14.3
+        },
+        {
+          "studentid": 20,
+          "nom": "Samir",
+          "moyenneGeneral": 13.8
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "groupNom": "DD205"
+    }
+  ]
+}
